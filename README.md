@@ -5,3 +5,7 @@ for the paper _Large Language Models Are 'Not Unaware' of Manner Implicatures_ a
 The 15th International Conference on Computational Semantics (Cong and Chersoni, IWCS 2023)
 
 Programs to justify the distributional semantics hypothesis in characterizing pragmatic nuances
+
+Authors: Yan Cong and Emmanuele Chersoni
+
+Citation: Coming soon
