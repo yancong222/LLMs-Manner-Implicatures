@@ -1,9 +1,9 @@
 # Manner-Implicatures-in-LLMs
-Python scripts, manner implicatures dataset _JJ_dataset.csv_
+Python scripts, datasets of manner implicatures triggered by negative antonyms, causal, and modality.
 
-for the paper _Manner implicatures in large language models_ 
+for the paper _Manner implicatures in large language models_ (under review)
 
-Programs to evaluate LLMs' competence in understanding maner implictures and justify distributional semantics hypothesis in characterizing pragmatic nuances
+Programs to evaluate LLMs' competence in manner implictures and justify distributional semantics hypothesis in characterizing pragmatic nuances.
 
 Authors: Yan Cong 
 
