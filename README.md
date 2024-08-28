@@ -1,9 +1,9 @@
-# LLMs-not-unaware-manner-implicatures
-Python scripts, R code, manner implicatures (_JJ_dataset.csv_), and baseline datasets (quantifier implicatures _quantifiers_dataset.csv_; natural langauge inference _snil_dataset.csv_)
+# Manner-Implicatures-in-LLMs
+Python scripts, manner implicatures dataset _JJ_dataset.csv_
 
-for the paper _Manner implicatures in large language models_ at  
+for the paper _Manner implicatures in large language models_ 
 
-Programs to justify the distributional semantics hypothesis in characterizing pragmatic nuances
+Programs to evaluate LLMs' competence in understanding maner implictures and justify distributional semantics hypothesis in characterizing pragmatic nuances
 
 Authors: Yan Cong 
 
